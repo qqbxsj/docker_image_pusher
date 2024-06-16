@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 rancher/mirrored-flannelcni-flannel-cni-plugin:v1.0.1
+
+rancher/mirrored-flannelcni-flannel:v0.17.0
